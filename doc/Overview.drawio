@@ -1,0 +1,82 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.5.1">
+  <diagram name="Seite-1" id="843lsu5s6puSGouKajUu">
+    <mxGraphModel dx="872" dy="447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hjZTk592l-m3-X1LqTMq-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Mobile" vertex="1">
+          <mxGeometry height="120" width="60" x="160" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="hjZTk592l-m3-X1LqTMq-1" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="" vertex="1">
+          <mxGeometry height="160" width="220" x="260" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="hjZTk592l-m3-X1LqTMq-12" edge="1" parent="1" source="hjZTk592l-m3-X1LqTMq-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="hjZTk592l-m3-X1LqTMq-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="603" y="380" />
+              <mxPoint x="395" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hjZTk592l-m3-X1LqTMq-2" parent="1" style="triangle;whiteSpace=wrap;html=1;rotation=-90;strokeWidth=4;" value="" vertex="1">
+          <mxGeometry height="50" width="60" x="560" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="hjZTk592l-m3-X1LqTMq-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Control" vertex="1">
+          <mxGeometry height="90" width="150" x="320" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="hjZTk592l-m3-X1LqTMq-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Circulation Pump" vertex="1">
+          <mxGeometry height="30" width="60" x="610" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="hjZTk592l-m3-X1LqTMq-8" edge="1" parent="1" source="hjZTk592l-m3-X1LqTMq-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;" target="hjZTk592l-m3-X1LqTMq-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="90" />
+              <mxPoint x="370" y="90" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hjZTk592l-m3-X1LqTMq-10" edge="1" parent="1" source="hjZTk592l-m3-X1LqTMq-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" target="hjZTk592l-m3-X1LqTMq-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="273" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hjZTk592l-m3-X1LqTMq-13" edge="1" parent="1" source="hjZTk592l-m3-X1LqTMq-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="hjZTk592l-m3-X1LqTMq-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="518" y="350" />
+              <mxPoint x="433" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hjZTk592l-m3-X1LqTMq-7" parent="1" style="html=1;shape=mxgraph.electrical.electro-mechanical.temperatureActuatedSwitch;aspect=fixed;elSwitchState=on;strokeWidth=4;" value="" vertex="1">
+          <mxGeometry height="31" width="75" x="480" y="269.5" as="geometry" />
+        </mxCell>
+        <mxCell id="hjZTk592l-m3-X1LqTMq-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Temperature" vertex="1">
+          <mxGeometry height="30" width="60" x="495" y="239.5" as="geometry" />
+        </mxCell>
+        <mxCell id="hjZTk592l-m3-X1LqTMq-16" edge="1" parent="1" source="hjZTk592l-m3-X1LqTMq-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="hjZTk592l-m3-X1LqTMq-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="350" />
+              <mxPoint x="358" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hjZTk592l-m3-X1LqTMq-15" parent="1" style="shape=mxgraph.pid.heat_exchangers.double_pipe_heat_exchanger;html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;rotation=90;" value="" vertex="1">
+          <mxGeometry height="40" width="80" x="250" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="hjZTk592l-m3-X1LqTMq-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Mash Heater" vertex="1">
+          <mxGeometry height="30" width="60" x="260" y="209.5" as="geometry" />
+        </mxCell>
+        <mxCell id="hjZTk592l-m3-X1LqTMq-18" parent="1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.bluetooth;pointerEvents=1" value="" vertex="1">
+          <mxGeometry height="28.799999999999997" width="15" x="330" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="hjZTk592l-m3-X1LqTMq-19" parent="1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.bluetooth;pointerEvents=1" value="" vertex="1">
+          <mxGeometry height="28.799999999999997" width="15" x="190" y="81.19999999999999" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
